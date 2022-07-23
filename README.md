@@ -11,8 +11,6 @@
 <img src="https://komarev.com/ghpvc/?username=diegoalencarsouza&style=flat-square&color=blue" align ="center" alt=""/>
 </div>
 <h4 align="center">
-  Olá, bem vindo à minha página do GitHub
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   <p> Hello, welcome to my Github page
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h4>
